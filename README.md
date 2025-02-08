@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Furniro Admin Dashboard
+Overview
+I have designed the Furniro Admin Dashboard, a comprehensive tool for efficient business management. This dashboard enables admins to easily manage and monitor key operations, such as products, customers, orders, sales, and performance insights, all in real-time.
 
-## Getting Started
+Key Features
+1. Dashboard
+Get a quick overview of important metrics such as total sales, active orders, and user activity at a glance.
+2. Products
+Easily add, update, and manage product listings, adjust prices, and monitor stock levels.
+3. Customers
+Manage and track customer profiles, review purchase history, and monitor activity to improve customer service and engagement.
+4. Orders
+View and manage customer orders, update their status, and track the shipping process to ensure timely delivery.
+5. Sales
+Monitor sales data such as total revenue, transaction history, and payment status, making it easier to track business performance.
+6. Analytics
+Visualize business performance with charts and graphs that provide insights into sales, customer behavior, and traffic trends.
+7. Reports
+Generate detailed reports on sales performance, product analytics, customer activity, and much more to inform decision-making.
+Design & Capabilities
+I have designed this Admin Dashboard to be a powerful, user-friendly, and customizable tool for managing a range of business activities. With this panel, you can:
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Monitor and manage day-to-day operations from a centralized platform.
+Make data-driven decisions with real-time analytics and reports.
+Customize and control all aspects of the business from a single interface.
