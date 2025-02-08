@@ -1,4 +1,4 @@
-Furniro Admin Dashboard
+*Furniro Admin Dashboard
 Overview
 I have designed the Furniro Admin Dashboard, a comprehensive tool for efficient business management. This dashboard enables admins to easily manage and monitor key operations, such as products, customers, orders, sales, and performance insights, all in real-time.
 
@@ -18,6 +18,6 @@ Visualize business performance with charts and graphs that provide insights into
 7. Reports
 Generate detailed reports on sales performance, product analytics, customer activity, and much more to inform decision-making.
 Design & Capabilities
-I have designed this Admin Dashboard to be a powerful, user-friendly, and customizable tool for managing a range of business activities. With this panel, you can:
+I have designed this Admin Dashboard to be a powerful, user-friendly, and customizable tool for managing a range of business activities.*
 
 
