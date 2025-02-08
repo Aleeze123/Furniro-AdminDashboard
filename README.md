@@ -20,6 +20,4 @@ Generate detailed reports on sales performance, product analytics, customer acti
 Design & Capabilities
 I have designed this Admin Dashboard to be a powerful, user-friendly, and customizable tool for managing a range of business activities. With this panel, you can:
 
-Monitor and manage day-to-day operations from a centralized platform.
-Make data-driven decisions with real-time analytics and reports.
-Customize and control all aspects of the business from a single interface.
+
